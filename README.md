@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love writing codes to simulate mathematical models, especially those in the biological sciences. This site displays some of my computational projects. 
+I love writing numerical codes to simulate mathematical models, especially those in the biological sciences. This site displays some of my computational projects. 
 
 <!--
 **voduchuy/voduchuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
