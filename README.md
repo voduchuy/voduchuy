@@ -3,7 +3,7 @@
 I have spent about a decade learning and researching numerical methods for simulating and calibrating comptuational models in biology. Writing codes for scientific computing is my passion. This site displays some of my computational projects. 
 
 - 🔭 I’m currently working on visa paperwork to join my dream company accelerating Quantitative System Pharmacology and Virtual Populations!
-- 🌱 I’m currently learning software design principles. 
+- 🌱 I’m currently learning: software design principles, scientific machine learning with Julia, cool maths, Github Actions. 
 - 👯 I’m looking to collaborate on fast numerical algorithms in Julia, especially those related to Bayesian computation, mathematical biology.
 - ⚡ Fun fact: My Starbucks name is Henry. 
 - 😄 Pronouns: He/Him/His.
