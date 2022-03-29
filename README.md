@@ -4,7 +4,7 @@ I have spent about a decade learning and researching numerical methods for simul
 
 - 🔭 I’m currently working on visa paperwork to join my dream company accelerating Quantitative System Pharmacology and Virtual Populations!
 - 🌱 I’m currently learning: software design principles, scientific machine learning with Julia, cool maths, Github Actions. 
-- 👯 I’m looking to collaborate on fast numerical algorithms in Julia, especially those related to Bayesian computation, mathematical biology.
+- 👯 I’m looking to collaborate on efficient implementations of numerical algorithms in Julia, especially those related to Bayesian computation, mathematical biology.
 - ⚡ Fun fact: My Starbucks name is Henry. 
 - 😄 Pronouns: He/Him/His.
 
