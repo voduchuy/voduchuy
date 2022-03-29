@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have spent over a decade learning and researching numerical methods for simulating and calibrating comptuational models in biology. Writing codes for scientific computing is my passion. This site displays some of my computational projects. 
+I have spent about a decade learning and researching numerical methods for simulating and calibrating comptuational models in biology. Writing codes for scientific computing is my passion. This site displays some of my computational projects. 
 
 - 🔭 I’m currently working on visa paperwork to join my dream company accelerating Quantitative System Pharmacology and Virtual Populations!
 - 🌱 I’m currently learning software design principles. 
