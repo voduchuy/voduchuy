@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have spent about a decade learning and researching numerical methods for simulating and calibrating comptuational models in biology. Writing codes for scientific computing is my passion. This site displays some of my computational projects. 
+Writing codes for scientific computing is my passion. This site displays some of my computational projects. 
 
 <!--
 **voduchuy/voduchuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
