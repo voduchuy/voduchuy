@@ -2,12 +2,6 @@
 
 I have spent about a decade learning and researching numerical methods for simulating and calibrating comptuational models in biology. Writing codes for scientific computing is my passion. This site displays some of my computational projects. 
 
-- 🔭 I’m currently working on [NumCME](https://github.com/voduchuy/NumCME.jl), a Julia package for direct solution of the Chemical Master Equation.
-- 🌱 I’m currently learning: software design principles, scientific machine learning with Julia, cool maths, Github Actions. 
-- 👯 I’m looking to collaborate on efficient implementations of numerical algorithms in Julia, especially those related to Bayesian computation, machine learning, and mathematical biology.
-- ⚡ Fun fact: My Starbucks name is Henry. 
-- 😄 Pronouns: He/Him/His.
-
 <!--
 **voduchuy/voduchuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
